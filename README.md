@@ -1,5 +1,9 @@
 ### Hi there 👋
+As a passionate programmer, I began my journey in 2016 by participating in the CoSpace league's Iran Open programming competition. With a focus on programming, I honed my skills in C, C++, and C# languages. Following this, I took on the challenge of teaching programming to younger kids at my high school, while also continuing to develop my skills in web programming.
 
+Today, I am a Back-End Developer with expertise in Node.js frameworks such as Express.js and Nest.js. I work at DrNext, where I am known for my ability to learn quickly, work collaboratively, and maintain a positive attitude.
+
+In my free time, I enjoy contributing to open-source projects and am an active member of the tech community. With a solid foundation in programming and a drive to constantly improve, I am excited to take on new challenges and contribute to the success of any team.
 <!--
 **mhmmdamiwn/mhmmdamiwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
