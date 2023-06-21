@@ -1,45 +1,19 @@
-**Hi there, I'm Amin Esmaili 👋**
+<h1 align="center">Hi 👋, I'm Amin</h1>
+<h3 align="center">A Backend developer</h3>
 
-I'm a junior backend developer with 3+ years of experience in programming, currently working at DrNext, a platform with 50,000 active users and over 120,000 records of medical prescriptions per day. I have a solid understanding of software development and am comfortable working with Node.js frameworks including Nest.js and Express.js.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmdamiwn&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmdamiwn" /> </p>
 
-**🔭 My Experience**
+- 📫 How to reach me **mhmmdamin.esmaili@gmail.com**
 
-DrNext, Tehran — Back End developer (Aug 2022 - Present)
-Accomplished coding on a real project with over 200k lines of code within 2 months of starting as a beginner.
-Refactored the entire backend project to take advantage of Porto architecture, adding 400+ files and 9000+ lines of code.
-Implemented auto-completion and synonym suggestion functionality on Elasticsearch for mapping the symptoms with diseases led to finding the patient's illness by their symptoms.
-Developed a command that generates files and containers according to our design pattern, streamlined the backend development process, and achieved over 80% time savings when adding new files.
-Generated a seeder command for automated database data insertion, resulting in a more efficient onboarding process for new team members without the need for manual data entry.
-Recruited 3 new members and successfully onboarded them into the team of 20 (scrum based).
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Book Garden Robotic Club, Tehran — Teacher and project maker (Jan 2021 - Dec 2021)
-Served as a volunteer teacher, sharing the passion for robotics and teaching C# and Arduino programming to students under 14 years old.
-Arranged a supportive learning environment, encouraging 10+ students to build their robotic projects.
-Designed and built 15+ robotic projects used in the club's activities.
-Salam High School, Tehran — Programming Teacher (Aug 2019 - Aug 2020)
-Mentored and taught C and C++ programming to a team of 4 students in the Co-space robotics program.
-Coached students to a strong understanding of programming in 24 sessions over 6 months, leveraging the Co-space educational platform.
-Developed lesson plans and provided hands-on training for robotics competitions, including teaching the basics of AI technology.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amin-esmaili-c137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amin-esmaili-c137" height="30" width="40" /></a>
+<a href="https://medium.com/@mhmmdamin.esmaili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhmmdamin.esmaili" height="30" width="40" /></a>
+</p>
 
-**🌱 My Skills**
-
-Node.js frameworks including Nest.js and Express.js
-Linux, Elasticsearch, Docker, MySQL, MongoDB
-JavaScript, TypeScript, C, C++, C#, Python
-
-**👨‍💻 My Projects and Volunteer Work**
-
-Authored and published 2 articles about Elasticsearch on Medium.
-Achieved three awards in IranOpen competition as the lead of a team of 4 , including Best Beginner Team in the first year and First Place in Big Teams and Third Place overall in the Cospace league.
-Designed and implemented an automated greenhouse using IoT technology, resulting in winning first place in the IoT Bootcamp 1400.
-
-**📫 How to reach me**
-
-Email: mhmmdamin.esmaili@gmail.com
-LinkedIn: Amin Esmaili
-Medium: @amin_esmaili
-
-**🎓 Education**
-
-Tehran University — Electrical Engineering (Aug 2019 - Present)
-I'm passionate about building and optimizing systems, and I'm always looking for new opportunities to grow my skills and knowledge. Let's connect!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
