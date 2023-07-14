@@ -3,8 +3,6 @@
 <img align="center" src="https://onepatch.com/wp-content/uploads/2022/03/NODEJS_CIRCLE.gif" alt="Node.js Logo" height="100" width="100" >
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmdamiwn&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmdamiwn" /> </p>
-
 - 📫 How to reach me **mhmmdamin.esmaili@gmail.com**
 
 ### Blogs posts
